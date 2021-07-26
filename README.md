@@ -1,12 +1,4 @@
-#### Hi! I'm Elis! 👋
+<img src="https://user-images.githubusercontent.com/5271523/127024379-3670637e-3d93-408d-bc20-4e9161d69e5f.jpg" width="500" alt="This is Mr. Meeseeks, my cat."/>
 
-I'm not going to say that I'm a software engineer passionate about coding because that's cliche. I do love what I do, though. I also **love** cats, playing video games (*World of Warcraft!!!*) and watching sitcoms (yes: *Friends*, *The Office*, *Modern Family*...).
-
-I've been an engineer for 9 years, with a big focus on the frontend side of the web.
-
-> [Website](https://elisofferni.codes) | [Twitter](https://twitter.com/e_lis)
-
---------------------------------
-
-#### This is Mr. Meeseeks, my cat.
-![This is Mr. Meeseeks, my cat.](https://raw.githubusercontent.com/elisoff/elisoff/master/IMG_0318.jpg "Mr. Meeseeks, my cat.")
+---
+[Website](https://e-lis.dev) | [Twitter](https://twitter.com/e_lis)
